@@ -1,0 +1,29 @@
+Navigating to http://localhost:3200...
+HTTP 302 for https://cdn.tailwindcss.com/
+[Browser Console] warn: cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation
+[Browser Console] debug: [vite] connecting...
+[Browser Console] info: %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[Browser Console] debug: [vite] connected.
+HTTP 404 for http://localhost:3200/favicon.ico
+[Browser Console] error: Failed to load resource: the server responded with a status of 404 (Not Found)
+HTTP 404 for http://localhost:3200/favicon.ico
+[Browser Console] error: Failed to load resource: the server responded with a status of 404 (Not Found)
+HTTP 401 for http://localhost:5000/api/brandpilot/brand
+[Browser Console] error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+HTTP 401 for http://localhost:5000/api/brandpilot/personas
+[Browser Console] error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+HTTP 401 for http://localhost:5000/api/brandpilot/settings
+[Browser Console] error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+HTTP 401 for http://localhost:5000/api/campaigns
+[Browser Console] error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+HTTP 401 for http://localhost:5000/api/brandpilot/brand
+[Browser Console] error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+HTTP 401 for http://localhost:5000/api/brandpilot/personas
+[Browser Console] error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+HTTP 401 for http://localhost:5000/api/brandpilot/settings
+[Browser Console] error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+HTTP 401 for http://localhost:5000/api/campaigns
+[Browser Console] error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+[Browser Console] verbose: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+HTML Dump Length: 36564
+Root seems to have content!
